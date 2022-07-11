@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Documents\\GitHub\\UWS.com"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": ".vscode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UWS.com"
+	}
+}
