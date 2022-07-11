@@ -126,11 +126,3 @@ body {
     bottom: 0px;
     position: absolute;
 }
-
-.logo {
-    width: 10px;
-    height: 10px;
-    position: absolute;
-    display: flex;
-    margin-left: 0;
-}
