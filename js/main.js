@@ -2,13 +2,13 @@ const cool = require('cool-ascii-faces');
 const express = require('express');
 const { appendFile } = require('fs');
 const path = require('path');
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || null;
 
 app.get("/", function (req, res){
   res.send("mixin' codeine");
 });
 
-app.listen(process.env.PORT || 5000);
+app.listen(process.env.PORT || null);
 
 
 
